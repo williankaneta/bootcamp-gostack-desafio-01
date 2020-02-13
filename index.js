@@ -5,7 +5,7 @@ const server = express();
 //use plugin express json
 server.use(express.json());
 
-//Constante array projetos
+//Constant array projects
 const projects = [];
 
 //BEGIN MIDDLEWARES
